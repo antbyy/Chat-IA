@@ -1,4 +1,3 @@
-90 % de l'espace de stockage utilisés … Si vous atteignez votre limite de stockage, vous ne pourrez plus créer ou modifier de fichiers, envoyer ou recevoir d'e-mails avec Gmail, ni sauvegarder de données dans Google Photos.
 import streamlit as st
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
