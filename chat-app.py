@@ -16,7 +16,7 @@ st.set_page_config(
     page_title='You Custom Assistant',
     page_icon='🤖'
 )
-st.subheader('Your Custom ChatGPT 🤖')
+st.subheader('Your IA ChatBot 🤖')
 
 chat = ChatOpenAI(model_name='gpt-3.5-turbo', temperature=0.5)
 
