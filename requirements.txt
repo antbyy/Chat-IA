@@ -1,7 +1,6 @@
 openai
 langchain
-docx2txt
-pypdf
 streamlit
-chromadb
+streamlit-chat
 tiktoken
+python-dotenv
