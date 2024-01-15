@@ -6,7 +6,7 @@ from langchain.schema import(
 )
 
 import streamlit as st
-from streamlit-chat import message
+from streamlit_chat import message
 
 # loading the OpenAI api key from .env (OPENAI_API_KEY="sk-********")
 from dotenv import load_dotenv, find_dotenv
