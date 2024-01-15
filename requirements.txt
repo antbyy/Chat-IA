@@ -1,6 +1,6 @@
 openai
 langchain
 streamlit
-streamlit-chat
 tiktoken
 python-dotenv
+streamlit-chat
